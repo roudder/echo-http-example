@@ -1,4 +1,4 @@
-Hey, idk what should be written herer for this project).
+Hey, idk what should be written here for this project).
 Just simple HTTP echo server example with correct (I hope) interface way DI: extending/mocking and etc.
 Server starts on localhost:8080. Project structure doesn't ideal, but show us main idea of injecting/distribution of different domain sectors.
 
