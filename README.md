@@ -5,4 +5,5 @@ Server starts on localhost:8080.
 Examples:
 
 GET: curl localhost:8080/dictionary/someKey
+
 POST:  curl -X POST -d 'key=anotherKey&value=oleg' localhost:8080/dictionary
